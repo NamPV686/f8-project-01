@@ -417,6 +417,14 @@ a{
     object-fit: cover;
     border-radius: 50%;
     margin-left: -3px;
+
+    font-weight: 450;
+    font-size: 0.7rem;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    background-color: var(--avatar-color, #1F3BB1) ;
+    color: #FFFFFF;
 }
 
 .stats .avatar-group .avatar:first-child{
