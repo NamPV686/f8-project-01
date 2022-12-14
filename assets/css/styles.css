@@ -126,7 +126,6 @@ a{
     font-size: 1.8;
     line-height: 1.8;
     color: #5A6473;
-    
 }
 
 .hero-cta{
@@ -166,7 +165,19 @@ a{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-top: 96px;
+    margin-top: 70px;
+}
+
+.client .images a{
+    display: flex;
+    align-items: center;
+    height: 90px;
+    padding: 0 42px;
+    border-radius: 12px;
+}
+
+.client .images a:hover{
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
 }
 
 /* Guides */
